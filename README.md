@@ -4,11 +4,10 @@ Celem tego repozytorium jest zapoznanie siê z gitem
 
 ## Wymagania 
 
-Nie ma ¿adnych
+*Node.js
 
 ##Licencja 
-
-MIT
+Apache Cmmons 2
 
 ##Autor
 
