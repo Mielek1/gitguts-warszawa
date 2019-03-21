@@ -7,7 +7,7 @@ Celem tego repozytorium jest zapoznanie siê z gitem
 *Node.js
 
 ##Licencja 
-Apache Cmmons 2
+Apache Cmmons 2 to licencja fajna
 
 ##Autor
 
